@@ -1,0 +1,16 @@
+{
+  "inbounds": [{
+    "port": 10086,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [{
+        "id": "a1111111-2222-3333-4444-555555555555",
+        "alterId": 64
+      }]
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  }]
+}
